@@ -15,7 +15,7 @@ The dashboard is designed for Business Directors and General Manager visibility 
 Once GitHub Pages is enabled, the dashboard will usually be available at:
 
 ```text
-https://ro2man.github.io/tefui_dashboard/
+https://tefui-main.github.io/BRI-Dashboard
 ```
 
 ## How To Use
